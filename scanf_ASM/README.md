@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 int main()
     {
@@ -37,3 +38,4 @@ main:  //  메인 함수
         mov     eax, 0    //    eax 칸에 받은 비트를 0번째 비트부터
         leave    //    leave 함수
         ret    //    함수 끝
+```
