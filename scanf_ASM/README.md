@@ -1,4 +1,4 @@
-```
+```C
 #include <stdio.h>
 int main()
     {
@@ -8,11 +8,10 @@ int main()
         printf("You entered %d...\n", a);
         return 0;
     }
+```
 
 
-// ----------
-
-
+```ASM
 .LC0:  //  0번째 문자열
         .string "enter a : "
 .LC1:  //  1번째 문자열
