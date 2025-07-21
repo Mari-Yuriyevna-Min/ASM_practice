@@ -1,4 +1,5 @@
-```C
+```
+[C99]
 #include <stdio.h>
 int main()
     {
@@ -11,7 +12,8 @@ int main()
 ```
 
 
-```ASM
+```
+[ASM x86]
 .LC0:  //  0번째 문자열
         .string "enter a : "
 .LC1:  //  1번째 문자열
